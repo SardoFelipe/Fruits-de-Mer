@@ -1,0 +1,71 @@
+body{
+	background-color: #535FA6;
+}
+body{
+	font-size: 20px;
+}
+.history {
+	width: 960px;
+	margin: auto;
+}
+.conteudo {
+	display: table;
+}
+
+.imagem {
+	display: table-cell;
+	float: right;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px
+}
+
+.textoinicial {
+	display: table-cell;
+	float: left;
+	width: 650px
+}
+
+.imagem2 {
+	display: table-cell;
+	float: right;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px
+}
+
+.midtext {
+	display: table-cell;
+	float: left;
+	width: 650px
+}
+
+.imagem4 {
+	display: table-cell;
+	float: left;
+}
+
+.midlatetext2 {
+	display: table-cell;
+	float: right;
+	width: 650px
+}
+
+.conteudo2 {
+	display: table;
+}
+
+.container {
+	width: 768px
+}
+
+.Bananada {
+	display: table-cell;
+	float: center;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
